@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OSRF Usufy 
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "osrf usufy -h"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true 
+Type=Application
+Categories=01-info-gathering;

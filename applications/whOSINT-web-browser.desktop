@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Web Browser
+Name[es]=Navegador web
+Encoding=UTF-8
+Exec=exo-open --launch WebBrowser %u
+Icon=org.xfce.webbrowser
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=05-browsers;
+OnlyShowIn=XFCE;
+X-XFCE-MimeType=x-scheme-handler/http;x-scheme-handler/https;
+X-AppStream-Ignore=True
+Comment=Browse the web
+Comment[es]=Navegar por la red

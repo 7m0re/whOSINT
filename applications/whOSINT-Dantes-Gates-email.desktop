@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Dante´s Gate - Email
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "BuscadorEmails.py"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-email-info-gathering;

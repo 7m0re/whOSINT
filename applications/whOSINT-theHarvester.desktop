@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=theHarvester
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "theHarvester.py -h"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;

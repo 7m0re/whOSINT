@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MediaInfo CLI
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "mediainfo"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-metadata;

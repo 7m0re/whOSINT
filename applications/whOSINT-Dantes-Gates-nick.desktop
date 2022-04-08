@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Dante´s Gate - Nickname
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "BuscadorNick.py"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;

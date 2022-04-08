@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OSRF Checkfy 
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "osrf checkfy -h"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-email-info-gathering;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MAT2 (Metadata Anonimisation Toolkit 2)
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "mat2"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-metadata;

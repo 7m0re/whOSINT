@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OSRF Phonefy 
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "osrf phonefy -h"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;

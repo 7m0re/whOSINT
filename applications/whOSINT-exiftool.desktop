@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ExifTool
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "exiftool"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-metadata;

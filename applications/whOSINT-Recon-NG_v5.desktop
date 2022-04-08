@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Recon-NG v5
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "recon-ng"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;

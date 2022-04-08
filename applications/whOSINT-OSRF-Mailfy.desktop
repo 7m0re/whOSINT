@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OSRF Mailfy 
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "osrf mailfy -h"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-email-info-gathering;

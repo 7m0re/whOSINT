@@ -1,0 +1,14 @@
+## Copyright (C) 2012 - 2021 ENCRYPTED SUPPORT LP <adrelanos@whonix.org>
+## See the file COPYING for copying conditions.
+
+[Desktop Entry]
+Exec=torbrowser %u
+Type=Application
+Name=Tor Browser (AnonDist)
+GenericName=Privacy Browser
+Comment=Start Tor Browser (AnonDist)
+Categories=05-browsers;
+Icon=/usr/share/icons/anon-icon-pack/torbrowser.png
+X-KDE-StartupNotify=false
+Keywords=browser;privacy;Tor;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/v>

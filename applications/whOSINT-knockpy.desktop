@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Knockpy (Knock Subdomain Scan)
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "knockpy -h"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-subdomain-info-gathering;

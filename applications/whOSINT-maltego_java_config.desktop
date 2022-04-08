@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Maltego Java Config
+GenericName=Maltego Java Config
+Comment=Configure Java for Maltego
+Encoding=UTF-8
+Exec=/usr/bin/maltego_java_config
+Icon=maltego
+Type=Application
+Terminal=false
+Categories=01-info-gathering;

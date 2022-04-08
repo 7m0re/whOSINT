@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OSRF Upgrade
+Encoding=UTF-8
+Exec=/usr/share/applications/exec-in-shell "osrf upgrade"
+Icon=org.xfce.terminal
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-other;
