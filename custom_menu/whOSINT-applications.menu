@@ -1,0 +1,70 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+    <Name>whOSINT</Name>
+
+    <DefaultAppDirs/>
+    <DefaultDirectoryDirs/>
+
+    <Menu>
+        <Name>Information Gathering</Name>
+        <Directory>whOSINT-info-gathering.directory</Directory>
+        <Include>
+            <Or>
+                <Category>01-info-gathering</Category>
+            </Or>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Email Information Gathering</Name>
+        <Directory>whOSINT-email-info-gathering.directory</Directory>
+        <Include>
+            <Or>
+                <Category>02-email-info-gathering</Category>
+            </Or>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Subdomain Gathering</Name>
+        <Directory>whOSINT-subdomain-info-gathering.directory</Directory>
+        <Include>
+            <Or>
+                <Category>03-subdomain-info-gathering</Category>
+            </Or>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Metadata</Name>
+        <Directory>whOSINT-metadata.directory</Directory>
+        <Include>
+            <Or>
+                <Category>04-metadata</Category>
+            </Or>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Web Browsers</Name>
+        <Directory>whOSINT-browsers.directory</Directory>
+        <Include>
+            <Or>
+                <Category>05-browsers</Category>
+            </Or>
+        </Include>
+    </Menu>
+
+    <Menu>
+        <Name>Others</Name>
+        <Directory>whOSINT-others.directory</Directory>
+        <Include>
+            <Or>
+                <Category>06-others</Category>
+            </Or>
+        </Include>
+    </Menu>
+
+</Menu>
