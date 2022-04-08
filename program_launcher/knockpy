@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -e
+
+cd /usr/share/knock
+exec python3 knockpy.py "$@"
