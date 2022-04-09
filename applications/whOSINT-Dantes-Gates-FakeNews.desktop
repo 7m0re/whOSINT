@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Dante´s Gate - FakeNews
-Encoding=UTF-8
-Exec=/usr/share/applications/exec-in-shell "BuscadorNoticiasFalsas.py"
-Icon=org.xfce.terminal
-StartupNotify=false
-Terminal=true
-Type=Application
-Categories=01-info-gathering;
