@@ -6,4 +6,4 @@ Icon=org.xfce.terminal
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=06-other;
+Categories=06-others;
