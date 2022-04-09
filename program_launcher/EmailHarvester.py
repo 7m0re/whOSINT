@@ -3,4 +3,4 @@
 set -e
 
 cd /usr/share/EmailHarvester
-exec python EmailHarvester.py "$@"
+exec python3 EmailHarvester.py "$@"
