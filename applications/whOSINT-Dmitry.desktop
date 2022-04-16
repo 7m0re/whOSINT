@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Dmitry 
+Name=DMitry 
 Encoding=UTF-8
 Exec=/usr/share/applications/exec-in-shell "dmitry"
 Icon=org.xfce.terminal
